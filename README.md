@@ -29,4 +29,4 @@
  $ sudo docker-compose up
  
 ``` 
-##### After few seconds you can access this Application at http://0.0.0.0:5000 or <your serverIP/DNS>:5000
+##### After few seconds you can access this Application at http://0.0.0.0:5000 or http://<your serverIP/DNS>:5000
