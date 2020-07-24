@@ -1,5 +1,5 @@
 # Deployment of Machine Learning based Web API using Docker
-#### This is a Web application developed for tutorial purpose, Please watch [these YouTube Videos](https://www.youtube.com/channel/UCd5U7ojVEID9_cWoj-AXaRA) for complete explanation.
+#### This is a Web application developed for tutorial purpose, Please watch [these YouTube Videos](https://www.youtube.com/playlist?list=PLOoVZ0jKCw7f4zgNrHUPjXDP1jAoz3Axm) for complete explanation.
 
 ![alt tag](https://github.com/pothabattulasantosh/Demo_App/blob/master/Screenshot_application-view.png)
 
